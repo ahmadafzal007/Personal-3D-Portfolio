@@ -32,8 +32,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone git@github.com:ahmadafzal007/Personal-3D-Portfolio.git
+   cd Personal-3D-Portfolio
 
   ```sh
   npm install
